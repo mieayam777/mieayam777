@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to drive a truck
 - 💞️ I’m looking to collaborate on ... 
 - 😄 Pronouns: any
-- ⚡ Fun fact: gk suka ceker (baru 2x makan ceker seumur hidup)
+- ⚡ Fun fact: gk suka ceker
 
 <!---
 mieayam777/mieayam777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
